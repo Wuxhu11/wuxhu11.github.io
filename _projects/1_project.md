@@ -12,7 +12,7 @@ related_publications: true
 ### **Table of Contents**  
 1. [Cross-silo federated learning](#FL)  
 2. [An overview of my research](#overview)
-3. [Conlfict resolution: Competition, free-riding, and collaboration](#part1)
+3. [Conflict resolution: Competition, free-riding, and collaboration](#part1)
 4. [Quantifying benefit strength via multi-task learning](#part2) 
 5. [Personalized federated learning](#part3) 
 6. [Federated foundation models](#part4)
