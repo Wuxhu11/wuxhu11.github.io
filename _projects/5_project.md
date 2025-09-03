@@ -2,7 +2,7 @@
 layout: page
 title: Scenery
 description: Overseas cities where I ever stayed
-img: assets/img/baozi.jpg
+img: assets/img/Beijing.jpg
 importance: 3
 category: fun
 ---
