@@ -22,6 +22,10 @@ nav_order: 2
 
 {% bibliography -f papers %}
 
+<h1>Workshop Articles</h1>
+
+{% bibliography -f workshop-papers %}
+
 <h1>Patent</h1>
 
 {% bibliography -f patents %}
