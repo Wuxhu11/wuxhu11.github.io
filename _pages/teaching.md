@@ -21,8 +21,9 @@ I am delighted to work with the following talents. Relax a little, try your best
   - <span style="color:blue">First-author Papers: [NeurIPS'24](https://neurips.cc/virtual/2024/poster/95480), [ICML'25](https://icml.cc/virtual/2025/poster/44394)</span>
 
 - **Zhilong Li** (2023)  
-  - Topic: *Benchmarking data complementarity in federated learning*
+  - Topic: *Benchmarking data complementarity in federated learning* Employment Destination
   - <span style="color:blue">First-author Paper: [NeurIPS 2024 Workshop](https://link.springer.com/chapter/10.1007/978-3-031-82240-7_6)</span>
+  - <span style="color:blue">Employment Destination: ByteDance</span>
 
 - **Jiayu Huang** (2024)  
   - Topic: *Fine-tuning with LoRA in federated learning*
