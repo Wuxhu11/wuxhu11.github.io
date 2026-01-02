@@ -14,4 +14,5 @@
 >- **Expert Systems with Applications**  
 >- **Journal of the Operational Research Society** 
 >- **Computers & Operations Research** 
->- **Performance Evaluation** 
+>- **Performance Evaluation**
+>- **SCIENCE CHINA Information Sciences**
