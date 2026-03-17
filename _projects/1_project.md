@@ -216,9 +216,8 @@ There is growing research interest in measuring the statistical heterogeneity of
 >#### **5.3 pFedGAT: An approach using graph neural networks**
 
 
-Building on our previous work on graph neural networks (GNNs) {% cite he2024polarized %} , my collaborators and I have also proposed a pFL scheme where the weights are learned by GNNs, which is currently under reivew:
+Building on our previous work on graph neural networks (GNNs) {% cite he2024polarized %} , my collaborators and I have also proposed a pFL scheme where the weights are learned by GNNs {% cite Zhou25pa %}.
 
-- Ziran Zhou, Guanyu Gao, <span style="color: blue;">Xiaohu Wu</span>, Yan Lyu. “pFedGAT:Personalized Federated Learning with Graph Attention Network.” Submitted.
 
 
 >### **6. Federated foundation models**
