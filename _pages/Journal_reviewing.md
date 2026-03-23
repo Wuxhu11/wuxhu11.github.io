@@ -13,7 +13,8 @@
 >- **Artificial Intelligence in Medicine** 
 >- **Information Processing and Management** 
 >- **Expert Systems with Applications**  
->- **Journal of the Operational Research Society** 
+>- **Journal of the Operational Research Society**
+>- **Journal of Scheduling** 
 >- **Computers & Operations Research** 
 >- **Performance Evaluation**
 >- **SCIENCE CHINA Information Sciences**
