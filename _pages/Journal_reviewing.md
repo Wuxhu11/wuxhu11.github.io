@@ -8,6 +8,7 @@
 >- **IEEE/ACM Transactions on Networking**
 >- **IEEE Transactions on Computers**
 >- **IEEE Transactions on Network Science and Engineering**
+>- **IEEE Journal on Selected Areas in Communications**
 >- **PLOS One** 
 >- **Knowledge and Information Systems** 
 >- **Artificial Intelligence in Medicine** 
