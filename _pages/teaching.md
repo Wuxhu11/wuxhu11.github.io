@@ -31,6 +31,10 @@ I am delighted to work with the following talents. Relax a little, try your best
 
 - **Zhengzhong Xie** (2024)  
   - Topic: *LLMs*
+  - First-author Paper: Working
+ 
+- **Yue Yin** (2025)  
+  - Topic: *LLMs*
   - First-author Paper: Working 
 
 ### PhD
