@@ -39,5 +39,5 @@ I am delighted to work with the following talents. Relax a little, try your best
 
 ### PhD
 - **Wenshuo Wang** (2023)  
-  - Topic: *Federated learning*  
+  - Topic: *Federated learning, LLMs*  
   - <span style="color:blue">First-author Paper: [Information Processing and Management](https://www.sciencedirect.com/science/article/abs/pii/S0306457322002680)</span>
