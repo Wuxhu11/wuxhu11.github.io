@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit:  # leave blank to include all the blog posts
+  limit: 6 # leave blank to include all the blog posts
 ---
 
 I am an Associate Professor at [Beijing University of Posts and Telecommunications](https://scss.bupt.edu.cn/info/1063/5161.htm), Beijing, China. I received a PhD degree from Telecom Paris, a school of [Institut Polytechnique de Paris](https://www.ip-paris.fr/en/about/facts-and-figures/rankings), France, under the supervision of Prof. Patrick Loiseau (Inria). During my doctoral studies, I was a visiting student at the [University of California at Berkeley](https://bliss.eecs.berkeley.edu/), United States, working with Prof. Jean Walrand. After completing my PhD, I was also a Research Fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, supervised by Prof. Han Yu. 
