@@ -8,12 +8,12 @@
     - name: Email
       value: xiaohu.wu@bupt.edu.cn      
 
-- title: Current Position
+- title: Position
   type: time_table
   contents:
-    - title: Associate Professor, PhD Supervisor
-      institution: <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>, Beijing, China
-      year: 2022 - Present
+    - title: Associate Professor
+      institution: <a href="https://en.ruc.edu.cn/">Renmin University of China</a>, Beijing, China
+      year: September 2026 - Present
       description:
 
 
