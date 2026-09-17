@@ -51,10 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/services/";
           },
-        },{id: "news-our-paper-on-ai-for-decision-making-is-accepted-to-ieee-tsc-ccf-a-in-collaboration-with-prof-han-yu-prof-giuliano-casale-and-prof-guanyu-gao-sparkles",
-          title: 'Our paper on AI for decision-making is accepted to IEEE TSC (CCF A),...',
-          description: "",
-          section: "News",},{id: "news-we-are-organizing-the-international-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025-fedgenai-ijcai-39-25-together-with-prof-jindong-wang-dr-lingjuan-lyu-dr-dimitrios-dimitriadis-and-prof-han-yu-sparkles",
+        },{id: "news-we-are-organizing-the-international-workshop-on-federated-learning-with-generative-ai-at-ijcai-2025-fedgenai-ijcai-39-25-together-with-prof-jindong-wang-dr-lingjuan-lyu-dr-dimitrios-dimitriadis-and-prof-han-yu-sparkles",
           title: 'We are organizing the International Workshop on Federated Learning with Generative AI at...',
           description: "",
           section: "News",},{id: "news-two-papers-on-collaborative-federated-learning-and-vision-language-models-are-accepted-to-icml-2025-ccf-a-in-collaboration-with-prof-han-yu-prof-qicheng-lao-dr-tiantian-he-dr-qiqi-liu-prof-yew-soon-ong-and-prof-yaochu-jin-sparkles",
@@ -62,6 +59,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-our-paper-on-personalized-federated-learning-is-accepted-to-iccv-2025-ccf-a-in-collaboration-with-dr-qiqi-liu-prof-yaochu-jin-dr-lingjuan-lyu-and-prof-han-yu-sparkles",
           title: 'Our paper on personalized federated learning is accepted to ICCV 2025 (CCF A),...',
+          description: "",
+          section: "News",},{id: "news-i-am-invited-to-serve-as-an-area-chair-for-iclr-2027-sparkles",
+          title: 'I am invited to serve as an Area Chair for ICLR 2027. :sparkles:...',
           description: "",
           section: "News",},{id: "projects-federated-learning",
           title: 'Federated Learning',
