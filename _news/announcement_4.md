@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2025-January-26 15:59:00-0400
+date: 2025-September-17 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Our paper on <font color=Blue>AI for decision-making</font> is accepted to **<font color=red>IEEE TSC</font>** (CCF A), in collaboration with Prof. Han Yu, Prof. Giuliano Casale, and Prof. Guanyu Gao. :sparkles:
+
+I am invited to serve as an <font color=Blue>Area Chair</font> for **<font color=red>ICLR 2027</font>**. :sparkles:
+
+
