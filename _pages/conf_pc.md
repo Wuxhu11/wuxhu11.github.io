@@ -16,8 +16,8 @@
 
 >### Conferences and workshops
 >
->I am also the pc member of the following conferences and workshops:
->- ICCV'25, NeurIPS'25, ICLR'26, AAAI'26, IJCAI'26
+>I also served as the area chair or the pc member for the following conferences and workshops:
+>- ICCV'25, NeurIPS'25, ICLR'26, AAAI'26, NeurIPS'26, IJCAI'26, AAAI'27, ICLR'27
 >- IJCAI'24
 >- International Workshop on the Economics of Fog, Edge and Cloud Computing, in conjunction with ACM MobiHoc 2020
 >- IJCAI'20, IEEE International Conference on Omni-layer Intelligent Systems 2020
