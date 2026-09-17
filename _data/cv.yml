@@ -6,7 +6,7 @@
     - name: Languages
       value: English, Chinese
     - name: Email
-      value: xiaohu.wu@bupt.edu.cn      
+      value: xiaohu.wu@ruc.edu.cn      
 
 - title: Position
   type: time_table
@@ -74,6 +74,14 @@
 - title: Previous Experience
   type: time_table
   contents:
+    - title: Research Professor
+      institution: Innovation Center of Yangtze River Delta, Zhejiang University, China
+      year: 2022 - 2026
+      description:  
+    - title: Associate Professor
+      institution: Beijing University Of Posts and Telecommunications, China
+      year: 2022 - 2026
+      description:  
     - title: Research Fellow
       institution: <a href="https://www.ntu.edu.sg/ntu-webank-jrc">Joint NTU-WeBank Research Centre on Fintech</a>, <a href="https://www.ntu.edu.sg/about-us/facts-figures/university-rankings">Nanyang Technological University</a>, Singapore
       year: 2019 - 2022
