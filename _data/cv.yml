@@ -100,10 +100,10 @@
   contents:
     - title: Area Chair
       items:
-        - ICLR 2027
+        - **<font color=Blue>ICLR 2027</font>**
     - title: Co-Chair
       items:
-        - International Workshop on Federated Learning with Generative AI, in conjunction with IJCAI-2025 (FedGenAI-IJCAI’25)       
+        - International Workshop on Federated Learning with Generative AI, in conjunction with IJCAI-2025 (**<font color=Blue>FedGenAI-IJCAI’25</font>**)       
   
 
 - title: Academic Services
@@ -116,7 +116,7 @@
       items: 
         - Nanyang Technical University, Singapore
 
-        
+   
       
 - title: Courses
   type: list
