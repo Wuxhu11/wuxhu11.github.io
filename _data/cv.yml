@@ -100,10 +100,10 @@
   contents:
     - title: Area Chair
       items:
-        - **<font color=Blue>ICLR 2027</font>**
+        - <font color=Blue>ICLR 2027</font>
     - title: Co-Chair
       items:
-        - International Workshop on Federated Learning with Generative AI, in conjunction with IJCAI-2025 (**<font color=Blue>FedGenAI-IJCAI’25</font>**)       
+        - International Workshop on Federated Learning with Generative AI, in conjunction with IJCAI-2025 (<font color=Blue>FedGenAI-IJCAI’25</font>)       
   
 
 - title: Academic Services
