@@ -90,11 +90,39 @@
       institution: <a href="https://www.fbk.eu/en/elementor-about-fbk/">Bruno Kessler Foundation</a> (FBK), Trento, Italy
       year: 2017 - 2019
       description:
-
     - title: Postdoctoral Researcher
       institution: <a href="https://www.aalto.fi/en/aalto-university/rankings">Aalto University</a>, Espoo, Finland.
       year: 2016 - 2017
+
+
+- title: Professional Services
+  type: nested_list
+  contents:
+    - title: Area Chair
+      items:
+        - ICLR 2027
+    - title: Co-Chair
+      items:
+        - International Workshop on Federated Learning with Generative AI, in conjunction with IJCAI-2025 (FedGenAI-IJCAI’25)       
   
+
+- title: Academic Services
+  type: nested_list
+  contents:
+    - title: Graduate Admission Committee Member
+      items:
+        - School of Smart Governance, Renmin University of China — 2026
+    - title: Doctoral Student Thesis Advisory Committee (TAC) Member
+      items: 
+        - Nanyang Technical University, Singapore
+
+        
+      
+- title: Courses
+  type: list
+  contents:
+    - Data Science
+    - Natural Language Processing
 
 - title: Other Interests
   type: list
