@@ -32,11 +32,24 @@ I am delighted to work with the following talents. Relax a little, try your best
 
 - **Zhengzhong Xie** (2024)  
   - Topic: *LLMs*
-  - First-author Paper: Working
+  - First-author Paper: In submission
  
 - **Yue Yin** (2025)  
   - Topic: *LLMs*
-  - First-author Paper: Working 
+  - First-author Paper: In preparation
+ 
+- **Heng Wang** (2026)  
+  - Topic: *LLMs*
+  - First-author Paper: Working
+ 
+- **Yunfei Zhang** (2026)  
+  - Topic: *LLMs and Economics*
+  - First-author Paper: Working
+ 
+- **Yuhan Jiang** (2026)  
+  - Topic: *LLMs*
+  - First-author Paper: Working
+  - 
 
 ### PhD
 - **Wenshuo Wang** (2023)  
