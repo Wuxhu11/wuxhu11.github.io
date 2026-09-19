@@ -49,7 +49,7 @@ I am delighted to work with the following talents. Relax a little, try your best
 - **Yuhan Jiang** (2026)  
   - Topic: *LLMs*
   - First-author Paper: Working
-  - 
+
 
 ### PhD
 - **Wenshuo Wang** (2023)  
