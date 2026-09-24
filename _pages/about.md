@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Associate Professor, Renmin University of China
 
 profile:
   align: right
