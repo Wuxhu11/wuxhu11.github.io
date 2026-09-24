@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor, Renmin University of China
+subtitle: <span class="font-weight-bold">Associate Professor, Renmin University of China</span>
 
 profile:
   align: right
