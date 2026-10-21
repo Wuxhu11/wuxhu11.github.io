@@ -7,3 +7,6 @@ related_posts: false
 ---
 
 Our paper on <font color=Blue>fine-tuning of large language models</font> is accepted to **<font color=red>IEEE Transactions on Image Processing</font>** (CCF A), in collaboration with Prof. Qicheng Lao, and Prof. Zhouchen Lin. :sparkles:
+
+We are organizing the <font color=Blue>International Workshop on Federated Learning with Generative AI</font> at <font color=Blue>IJCAI 2025</font> ([**<font color=red>FedGenAI-IJCAI'25</font>**](https://federated-learning.org/FedGenAI-ijcai-2025/)), together with Prof. Jindong Wang, Dr. Lingjuan Lyu, Dr. Dimitrios Dimitriadis, and Prof. Han Yu. :sparkles: 
+
