@@ -14,6 +14,10 @@ I am delighted to work with the following talents. Relax a little, try your best
   - Topic: *Collaboration formation with competition in federated learning*  
   - <span style="color:blue">First-author Paper: [AAAI'24](https://ojs.aaai.org/index.php/AAAI/article/view/29446)</span>
   - Graduate Study Destination: National University of Singapore
+ 
+- **Xi Wang** (2026)  
+  - Topic: *LLMs \& Federated Learning*  
+
 
 
 
