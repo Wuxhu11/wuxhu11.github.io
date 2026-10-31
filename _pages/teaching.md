@@ -16,7 +16,7 @@ I am delighted to work with the following talents. Relax a little, try your best
   - Graduate Study Destination: National University of Singapore
  
 - **Xi Wang** (2026)  
-  - Topic: *LLMs \& Federated Learning*  
+  - Topic: *LLMs & Federated Learning*  
 
 
 
@@ -37,7 +37,7 @@ I am delighted to work with the following talents. Relax a little, try your best
   - First-author Paper: In submission
 
 - **Zhengzhong Xie** (2024)  
-  - Topic: *LLMs*
+  - Topic: *Fine-tuning with LoRA in federated learning*
   - First-author Paper: In submission
  
 - **Yue Yin** (2025)  
